@@ -151,5 +151,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-flow-strip-types": "^7.12.1"
   }
 }
